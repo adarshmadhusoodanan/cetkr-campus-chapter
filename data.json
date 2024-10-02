@@ -1,46 +1,19 @@
 {
-    "collegeCode": "SNT",
+    "collegeCode": "CETKR",
 
-    "college": "Sree Narayana Guru Institute of Science and Technology",
+    "college": "College of Engineering Trikaripur",
 
-    "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
+    "about": "µLearn CETKR was officially established on October 4, 2024, with the vision of embodying a synergic philosophy of education and fostering a culture of mutual learning through micro peer groups. With Adarsh Madhusoodanan as the campus lead and Reejamol K J (Assistant Professor - CSE)as the faculty enabler, µLearn embarked on a journey to assist students in breaking through echo chambers and freeing themselves from the shackles of conventional thinking.In October 2024, µLearn formed its Executive Committee (Execom), comprised of dedicated student leaders committed to advancing the club's mission and vision.",
 
     "events": [
         {
-            "month": "Sep",
-            "date": "29",
+            "month": "Oct",
+            "date": "9",
             "head": "Event 1",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "27",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "26",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "para": "This event showcased a video presentation highlighting Aami's remarkable story of overcoming challenges and transforming her life through µLearn",
+            "img": "https://i.postimg.cc/ZK2FMDxJ/story.jpg"
         }
+
     ],
 
     "gallery": {
@@ -67,20 +40,20 @@
 
     "statistics": {
         "studentsCount": 30,
-        "learningCircles": 10,
+        "learningCircles": 4,
         "InterestGroups": 5,
-        "karmaEarned": 60,
-        "rank": 28
+        "karmaEarned": 10000,
+        "rank": 120
     },
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Reejamol KJ",
+            "image": ""
         },
         "campusLead": {
-            "name": "Elon Musk",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
+            "name": "Adarsh Madhusoodanan",
+            "image": ""
         },
         "campusCoLead": {
             "name": "Enric S Neelamkavil",
