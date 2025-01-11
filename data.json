@@ -19,21 +19,21 @@
     "gallery": {
         "row1": [
             {
-                "image": "src/Components/Gallery/assets/new.png"
+                "image": "./assets/new.png"
             },
             {
-                "image": "src/Components/Gallery/assets/new.png"
+                "image": "./assets/new.png"
             },
 			{
-				"image": "src/Components/Gallery/assets/new.png"
+				"image": "./assets/new.png"
 			}
         ],
         "row2": [
             {
-                "image": "src/Components/Gallery/assets/new.png"
+                "image": "./assets/new.png"
             },
             {
-                "image": "src/Components/Gallery/assets/new.png"
+                "image": "./assets/new.png"
             }
         ]
     },
@@ -53,7 +53,7 @@
         },
         "campusLead": {
             "name": "Adarsh Madhusoodanan",
-            "image": "src/Components/Team/assets/Adarsh_Madhusoodanan.png"
+            "image": "./assets/Adarsh_Madhusoodanan.png"
         },
         "campusCoLead": {
             "name": "",
