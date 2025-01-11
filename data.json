@@ -11,7 +11,7 @@
             "date": "7",
             "head": "Oreintation",
             "para": "We successfully conducted the first-ever MuLearn CETKR orientation session, connecting with enthusiastic students eager to learn and grow.",
-            "img": "src/assets/images/new.png"
+            "img": "src/Components/Events/assets/new.png"
         }
 
     ],
@@ -19,21 +19,21 @@
     "gallery": {
         "row1": [
             {
-                "image": "src/assets/images/new.png"
+                "image": "src/Components/Gallery/assets/new.png"
             },
             {
-                "image": "src/assets/images/new.png"
+                "image": "src/Components/Gallery/assets/new.png"
             },
 			{
-				"image": "src/assets/images/new.png"
+				"image": "src/Components/Gallery/assets/new.png"
 			}
         ],
         "row2": [
             {
-                "image": "src/assets/images/new.png"
+                "image": "src/Components/Gallery/assets/new.png"
             },
             {
-                "image": "src/assets/images/new.png"
+                "image": "src/Components/Gallery/assets/new.png"
             }
         ]
     },
@@ -53,7 +53,7 @@
         },
         "campusLead": {
             "name": "Adarsh Madhusoodanan",
-            "image": "src/assets/images/Adarsh_Madhusoodanan.png"
+            "image": "src/Components/Team/assets/Adarsh_Madhusoodanan.png"
         },
         "campusCoLead": {
             "name": "",
