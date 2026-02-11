@@ -52,31 +52,31 @@
             "image": ""
         },
         "campusLead": {
-            "name": "Adarsh Madhusoodanan",
+            "name": "Yadhu Nandanan",
             "image": "./assets/Adarsh_Madhusoodanan.png"
         },
         "campusCoLead": {
-            "name": "",
+            "name": "Deepak Mahendran",
             "image": ""
         },
-        "treasurer": {
-            "name": "",
+        "campusCoLead": {
+            "name": "Aparna K P",
             "image": ""
         },
         "technicalLead": {
-            "name": "",
+            "name": "Sidharth P V",
             "image": ""
         },
-        "mediaLead": {
-            "name": "",
+        "creativeLead": {
+            "name": "Mrudul Chandran",
             "image": ""
         },
         "contentLead": {
-            "name": "",
+            "name": "Harinandanan",
             "image": ""
         },
         "operationLead": {
-            "name": "",
+            "name": "Arya Mohan",
             "image": ""
         }
     },
